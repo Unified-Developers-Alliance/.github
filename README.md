@@ -1,2 +1,2 @@
 # .github
-The official landing page and organization profile for the Unified Developers Alliance.
+The official landing page and organization profile for the Unified Developers Alliance!
